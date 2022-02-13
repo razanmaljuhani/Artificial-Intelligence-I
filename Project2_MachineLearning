@@ -1,1 +1,4 @@
-
+In this project, we chosen a dataset we retrieved from the given online
+website. We want to check if based on the stored data of a travel insurance
+agency, does the individual claim their insurance or not. On Naïve Bayes
+algorithm, Decision Tree algorithm, and Logistic Regression algorithm and kNearest algorithm by running Algorithm in RapidMiner Studio and Weka.
