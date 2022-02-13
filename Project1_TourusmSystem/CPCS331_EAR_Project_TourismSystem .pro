@@ -8,11 +8,11 @@
  Written by: Visual Prolog
  Comments:
  
-  Name                ID
-Razan Aljuhani      1806065
-Haya Alsheikh       1806208
-Wejdan Alzahrani    1708094
-Lama Khaled         1805751
+  Name                
+Razan Aljuhani      
+Haya Alsheikh       
+Wejdan Alzahrani    
+Lama Khaled   
 ******************************************************************************/
 
 include "cpcs331_ear_project_tourismsystem.inc"
